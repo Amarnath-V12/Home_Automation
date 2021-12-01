@@ -7,7 +7,6 @@ int fan2 = 10;
 int song = 8;
 String voice;
 
-// declare the output
 void setup() {
 servo1.attach(7);
 servo2.attach(6);
